@@ -2,42 +2,33 @@
 
 # 👋 Hi, I'm Aastha Patel
 
-🎓 Computer Science Student | 🤖 AI Enthusiast | 🌱 Innovator in Smart Agriculture
+🎓 Computer Science Student | 🤖 AI Enthusiast | 
+
+I am a dedicated Computer Science student with a strong interest in Data Science, Artificial Intelligence, and real-world problem solving. I am particularly motivated by the potential of data-driven technologies to generate meaningful insights and support intelligent decision-making.
+With a consistent academic record, including a CGPA of 9.2 in Final Semester. 
+
+My areas of interest include machine learning, deep learning, and data analytics, with a focus on leveraging these technologies to address practical challenges. I am committed to continuous learning and actively engage in projects that enhance my technical expertise and problem-solving abilities.
 
 ---
 
 ## 🚀 About Me
 
-* 🌾 Working on **SmartPass Entry – Automated Passbook Data Entry System**
-* 🤖 Passionate about **AI, Machine Learning & Computer Vision**
+* 🤖 Passionate about **Data Science , Artificial Intelligance , Machine Learning**
 * 🌍 Interested in solving real-world problems using technology
-* 📊 Exploring Data Science & Deep Learning
+* 📊 Investigating Deep Learning , GenerativeAI , MLops 
 
 ---
 
 ## 🧠 Tech Stack
 
 💻 **Languages:**
-`Python` | `C++` | `SQL`
+`Python` | `C` | `SQL`
 
 📚 **Libraries & Tools:**
-`TensorFlow` | `Keras` | `OpenCV` | `NumPy` | `Pandas`
+`TensorFlow` | `Keras` | `OpenCV` | `NumPy` | `Pandas` | `Matplotlib` | `Power BI`| `Tableau`
 
 🛠 **Tools & Platforms:**
-`GitHub` | `Google Colab` | `VS Code` | `Arduino`
-
----
-
-## 🌱 Projects
-
-🔹 **AgroSense AI 🌿**
-AI-powered system for crop disease detection, prediction & advisory
-
-🔹 **SmartPass Entry 📘**
-Automated system for digitizing passbook data using OCR
-
-🔹 **IoT-based Balancing System ⚙️**
-Arduino + sensors for real-time stabilization
+`GitHub` | `Google Colab` | `VS Code` | 
 
 ---
 
@@ -51,15 +42,12 @@ Arduino + sensors for real-time stabilization
 
 ## 🌐 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+📧 Email: aasthapatel2525@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/aastha-patel-17b05224b/
 
 ---
 
-## ✨ Fun Fact
-
-💡 I love combining **AI + Agriculture 🌾** to build impactful solutions
 
 ---
 
-⭐ *“Code. Learn. Innovate. Repeat.”*
+⭐ “Build technology that doesn’t just work — but makes an impact.” 🌍
