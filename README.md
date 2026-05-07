@@ -42,4 +42,4 @@ Looking for opportunities where I can do real work on real systems.
 
 ---
 
-⭐ “Build technology that doesn’t just work — but makes an impact.” 🌍
+⭐ “"Developing innovative solutions that deliver tangible impact".” 🌍
