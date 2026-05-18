@@ -31,6 +31,16 @@ Looking for opportunities where I can do real work on real systems.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📊 Github Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=buddy0452004&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 ## 🌐 Connect With Me
 
@@ -42,4 +52,4 @@ Looking for opportunities where I can do real work on real systems.
 
 ---
 
-⭐ “"Developing innovative solutions that deliver tangible impact".” 🌍
+⭐ “"Developing Innovative Solutions That Deliver Tangible Impact".” 🌍
