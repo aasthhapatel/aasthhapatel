@@ -1,5 +1,9 @@
 ## Hey, I'm Aastha 👋
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Artificial+Intelligence;Machine+Learning;Computer+Science+Student;Always+Learning+New+Things"/>
+</p>
+
 CS student from Ahmedabad obsessed with making AI actually useful. I build things 
 at the intersection of machine learning, medical imaging, and data — not just to 
 learn the tech, but to solve problems worth solving.
@@ -8,7 +12,6 @@ Finishing my degree (CGPA 9.2/10) while diving into generative AI and MLOps.
 Looking for opportunities where I can do real work on real systems.
 
 ---
-
 ## 🚀 About Me
 
 * 🤖 Passionate about **Data Science , Artificial Intelligance , Machine Learning**
@@ -17,33 +20,67 @@ Looking for opportunities where I can do real work on real systems.
 
 ---
 
-## 🧠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 Github Stats
+## TECHNOLOGY 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=buddy0452004&theme=tokyonight&hide_border=true" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55"/>
+
+</div>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aasthhapatel&theme=tokyonight" />
+
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aasthhapatel&theme=tokyonight" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br>
 
-## Total Count
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aasthhapatel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aasthhapatel&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasthhapatel&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aasthhapatel&theme=tokyonight"/>
+
+</div>
+
+## Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aasthhapatel&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ## 🌐 Connect With Me
