@@ -24,7 +24,7 @@ Looking for opportunities where I can do real work on real systems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,flask,git,github,vscode,sqlite,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,flask,git,github,vscode,react,sqlite,linux&theme=dark"/>
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" alt="FastAPI"/>
 
 </div>
