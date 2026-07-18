@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Artificial+Intelligence;Machine+Learning;Computer+Science+Student;Always+Learning+New+Things"/>
 </p>
 
-CS student from Ahmedabad obsessed with making AI actually useful. I build things 
+Computer Science student from Ahmedabad obsessed with making AI actually useful. I build things 
 at the intersection of machine learning, medical imaging, and data — not just to 
 learn the tech, but to solve problems worth solving.
 
