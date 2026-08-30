@@ -10,6 +10,7 @@ learn the tech, but to solve problems worth solving.
 
 Finishing my degree (CGPA 9.0/10) while diving into generative AI and MLOps. 
 Looking for opportunities where I can do real work on real systems.
+
 ---
 ## 🚀 About Me
 
