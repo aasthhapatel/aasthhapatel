@@ -8,9 +8,8 @@ Computer Science student from Ahmedabad obsessed with making AI actually useful.
 at the intersection of machine learning, medical imaging, and data — not just to 
 learn the tech, but to solve problems worth solving.
 
-Finishing my degree (CGPA 9.2/10) while diving into generative AI and MLOps. 
+Finishing my degree (CGPA 9.0/10) while diving into generative AI and MLOps. 
 Looking for opportunities where I can do real work on real systems.
-
 ---
 ## 🚀 About Me
 
